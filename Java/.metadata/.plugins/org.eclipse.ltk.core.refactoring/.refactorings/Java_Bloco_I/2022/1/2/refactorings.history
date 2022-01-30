@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;Vetores_e_Matrizes.exercício_02&apos; to &apos;Exercício_02&apos;&#x0D;&#x0A;- Original project: &apos;Java_Bloco_I&apos;&#x0D;&#x0A;- Original element: &apos;Vetores_e_Matrizes.exercício_02&apos;&#x0D;&#x0A;- Renamed element: &apos;Vetores_e_Matrizes.Exercício_02&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;exercício_02&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Vetores_e_Matrizes{exercício_02.java[exercício_02" matchStrategy="1" name="Exercício_02" qualified="false" references="true" similarDeclarations="false" stamp="1641085834756" textual="false" version="1.0"/>
-</session>
